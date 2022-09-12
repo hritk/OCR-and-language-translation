@@ -58,12 +58,5 @@ So main thing is, you can detect the object and translate that object name in an
 
 [7 Text to Speech](https://github.com/ashish807/OCR-and-language-translation/tree/master/Text_to_audio)
 
-# Contact
-ashish.adhikari727@gmail.com
 
-bishwashpokhrel.be18cse@pec.edu.in
-
-anilk07105@gmail.com
-
-mahla.amit1077@gmail.com
 
